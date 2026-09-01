@@ -94,8 +94,8 @@ If the demo has already been used, select **Reset challenge demo** before beginn
 - [x] Synthetic data and no-PHI disclosures
 - [x] Open-source MIT license
 - [x] Local setup and testing instructions
-- [ ] Public GitHub repository URL
+- [x] Public GitHub repository: https://github.com/clblanc0/protocolos-webmcp
 - [ ] Public YouTube demo under three minutes
 - [ ] Devpost submission fields completed
-- [ ] Final signed-out judge-access test
+- [x] Final signed-out judge-access test
 - [ ] Freeze submitted Site, repository, and Devpost entry during judging
